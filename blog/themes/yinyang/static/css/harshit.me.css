@@ -1,0 +1,15 @@
+.signatures a {
+  text-decoration: none;
+  font-size: 28px;
+  font-family: sans-serif;
+}
+
+.signatures a:hover {
+  text-decoration: none;
+  font-size: 28px;
+  font-family: sans-serif;
+}
+
+* {
+  font-family: sans-serif;
+}

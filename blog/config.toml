@@ -1,0 +1,21 @@
+baseURL = "https://harshit.me/"
+languageCode = "en-us"
+title = "Harshit Kaushik"
+theme = "yinyang"
+
+[params]
+headTitle = "Harshit Kaushik"
+mainSections = ["posts"]
+extraCSSFiles = ["css/harshit.me.css"]
+
+[[params.socials]]
+name = "About me"
+link = "https://harshit.me"
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/HarshitKaushik"
+
+[[params.socials]]
+name = "Twitter"
+link = "https://twitter.com/drag_on_tweeter"
