@@ -10,7 +10,7 @@ extraCSSFiles = ["css/harshit.me.css"]
 
 [[params.socials]]
 name = "About me"
-link = "https://harshit.me"
+link = "/posts/my-first-post/"
 
 [[params.socials]]
 name = "Github"
