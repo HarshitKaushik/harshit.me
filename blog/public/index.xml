@@ -6,14 +6,33 @@
     <description>Recent content on Harshit Kaushik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jan 2021 13:39:21 +0530</lastBuildDate><atom:link href="https://harshit.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Mar 2021 20:27:29 +0530</lastBuildDate><atom:link href="https://harshit.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Roots</title>
+      <link>https://harshit.me/poems/roots/</link>
+      <pubDate>Sun, 14 Mar 2021 19:49:27 +0530</pubDate>
+      
+      <guid>https://harshit.me/poems/roots/</guid>
+      <description>Every day, we have a choice. Either to make things better or to make things worse.
+Dragon
+Roots Ancestral home stands in ruins, desolated.
+A mud edifice, reminiscent now
+Of a grandfather, I never met abated
+In the roots of blood, crops and a plough.
+A story like our very own nation back then,
+Young, poor, socialist trying to make a way.
+Five offsprings. Urban-settled women and men.
+Their young, hair either lost or grown grey.</description>
+    </item>
+    
+    <item>
+      <title>What Have I Learnt From My Leaders?</title>
       <link>https://harshit.me/posts/my-first-post/</link>
       <pubDate>Fri, 29 Jan 2021 13:39:21 +0530</pubDate>
       
       <guid>https://harshit.me/posts/my-first-post/</guid>
-      <description>Hello world Hi there. This is my first blog post.</description>
+      <description>What Have I Learnt From My Leaders?
+A great leader I know who leads a software engineering team on a global Software As A Service offering at a reputed international company was promoted as a Director of Product and Engineering. One thing that puzzled me was that he mentioned his leaders from the past in the reply to corporate congratulatory email and offered gratitude towards them but the leaders were neither in the corporate network nor in the recipients at that time.</description>
     </item>
     
   </channel>
