@@ -1,7 +1,7 @@
 ---
 title: "Das Kapital"
 date: 2021-03-21T19:28:13+05:30
-draft: true
+draft: false
 ---
 
 "Communism failed in real life because humans like to own things."  

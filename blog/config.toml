@@ -1,16 +1,19 @@
 baseURL = "https://harshit.me/"
 languageCode = "en-us"
 title = "Harshit Kaushik"
-theme = "yinyang"
+theme = "hugo-PaperMod-master"
 
 [params]
 headTitle = "Harshit Kaushik"
 mainSections = ["posts", "poems"]
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
 extraCSSFiles = ["css/harshit.me.css"]
 
 [[params.socials]]
 name = "About me"
-link = "/posts/my-first-post/"
+link = "https://www.linkedin.com/in/harshitkaushikusb/"
 
 [[params.socials]]
 name = "Github"
