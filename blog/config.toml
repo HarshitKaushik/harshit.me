@@ -5,7 +5,7 @@ theme = "hugo-PaperMod-master"
 
 [params]
 headTitle = "Harshit Kaushik"
-mainSections = ["posts", "poems"]
+mainSections = ["posts", "poems", "software", "music"]
 ShowReadingTime = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
@@ -22,7 +22,3 @@ link = "https://github.com/HarshitKaushik"
 [[params.socials]]
 name = "Twitter"
 link = "https://twitter.com/drag_on_tweeter"
-
-[[params.socials]]
-name = "Poems"
-link = "/poems/"

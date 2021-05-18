@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Harshit Kaushik</title>
+    <link>https://harshit.me/software/</link>
+    <description>Recent content in Software on Harshit Kaushik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 May 2021 14:52:23 +0530</lastBuildDate><atom:link href="https://harshit.me/software/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

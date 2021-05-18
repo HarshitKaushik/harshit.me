@@ -1,5 +1,6 @@
 # harshit.me
-Static website for harshit.me
+
+Static website for harshit.me.
 
 ## Commands
 
