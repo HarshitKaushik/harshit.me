@@ -21,4 +21,5 @@ Some of us grow with time and eventually learn that when the basic necessities a
 Our happiness should not come from belittling other professions and our sadness should not come from developing an inferiority complex from other professions. Life has many more important undertones like finding a hobby, a life-long enthusiasm for something or surviving this pandemic.
 
 Regards,
+
 Harshit.

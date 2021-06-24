@@ -19,7 +19,7 @@ hugo
 Deploy the site to play-mine server.
 
 ```bash
-scp -r workspace/dev/untitled/harshit.me/blog/public/*  root@157.245.101.248:/var/www/harshit.me/
+scp -r blog/public/*  root@157.245.101.248:/var/www/harshit.me/
 ```
 
 Path of the main website.
