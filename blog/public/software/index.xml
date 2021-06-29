@@ -6,6 +6,11 @@
     <description>Recent content in Software on Harshit Kaushik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 May 2021 14:52:23 +0530</lastBuildDate><atom:link href="https://harshit.me/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 May 2021 14:52:23 +0530</lastBuildDate>
+    
+	<atom:link href="https://harshit.me/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
+

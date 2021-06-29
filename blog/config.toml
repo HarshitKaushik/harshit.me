@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Harshit Kaushik"
 theme = "hugo-PaperMod-master"
 
+[author]
+name = "Harshit Kaushik"
+
 [params]
 headTitle = "Harshit Kaushik"
 mainSections = ["posts", "poems", "software", "music"]
@@ -10,6 +13,7 @@ ShowReadingTime = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 extraCSSFiles = ["css/harshit.me.css"]
+googleAnalyticsID = "G-ZBG6RJWQEJ"
 
 [[params.socials]]
 name = "About me"

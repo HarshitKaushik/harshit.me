@@ -49,6 +49,6 @@ Coming face to face with
 A speeding truck  
 Coming in the wrong direction.  
 
-Dragon
+Dragon.
 
 © drag_on
