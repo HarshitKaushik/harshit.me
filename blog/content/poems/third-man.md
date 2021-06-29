@@ -2,9 +2,7 @@
 title: "Third Man"
 date: 2021-06-24T21:43:57+05:30
 draft: false
----
-
-Third man                     
+---                   
 
 I gesture a direction with my hand  
 Making eye contact with the driver.  

@@ -4,8 +4,6 @@ date: 2021-06-24T21:09:10+05:30
 draft: false
 ---
 
-The Blow Of Death  
-
 A garden, segregated by the colour of leaves  
 Squirms within with a frown of distaste  
 As two ferns grow in humiliating proximity.  
