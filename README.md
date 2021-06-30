@@ -4,6 +4,17 @@ Static website for harshit.me.
 
 ## Commands
 
+Install hugo server.
+
+```bash
+# on macOS
+brew install hugo
+# on debian/ubuntu
+brew install hugo
+# on windows
+choco install hugo -confirm
+```
+
 Run hugo server.
 
 ```bash
