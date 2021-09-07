@@ -1,0 +1,36 @@
+@font-face {
+  font-family: jetbrainsmonolight;
+  font-weight: 300;
+  font-style: normal;
+  src: url(../fonts/JetBrainsMono-Bold.woff2) format('woff2'), url(../fonts/JetBrainsMono-Bold.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: merriweather-regular;
+  font-weight: 300;
+  font-style: normal;
+  src: url(../fonts/Merriweather-Regular.woff2) format('woff2'), url(../fonts/Merriweather-Regular.woff2) format('woff2');
+}
+
+.signatures a {
+  text-decoration: none;
+  font-size: 28px;
+  font-family: sans-serif;
+}
+
+.signatures a:hover {
+  text-decoration: none;
+  font-size: 28px;
+  font-family: sans-serif;
+}
+
+.post-date {
+  font-weight: 400;
+  font-style: normal;
+}
+
+@media (max-width: 500px) {
+  body {
+    font-size: 14px;
+  }
+}

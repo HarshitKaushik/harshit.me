@@ -1,0 +1,28 @@
+baseURL = "https://harshit.me/"
+languageCode = "en-us"
+title = "Harshit Kaushik"
+theme = "hugo-PaperMod-master"
+
+[author]
+name = "Harshit Kaushik"
+
+[params]
+headTitle = "Harshit Kaushik"
+mainSections = ["posts", "poems", "software", "music"]
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+extraCSSFiles = ["css/harshit.me.css"]
+googleAnalyticsID = "G-ZBG6RJWQEJ"
+
+[[params.socials]]
+name = "About me"
+link = "https://www.linkedin.com/in/harshitkaushikusb/"
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/HarshitKaushik"
+
+[[params.socials]]
+name = "Twitter"
+link = "https://twitter.com/drag_on_tweeter"
