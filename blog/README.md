@@ -1,6 +1,6 @@
 # harshit.me
 
-Static website for harshit.me.
+Static website for uniharsh.com
 
 ## Commands
 
@@ -30,11 +30,11 @@ hugo
 Deploy the site to play-mine server.
 
 ```bash
-scp -r blog/public/*  root@157.245.101.248:/var/www/harshit.me/
+scp -r blog/public/*  root@157.245.101.248:/var/www/uniharsh.com/
 ```
 
 Path of the main website.
 
 ```bash
-/var/www/harshit.me/
+/var/www/uniharsh.com/
 ```

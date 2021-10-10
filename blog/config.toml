@@ -1,4 +1,4 @@
-baseURL = "https://harshit.me/"
+baseURL = "https://uniharsh.com/"
 languageCode = "en-us"
 title = "Harshit Kaushik"
 theme = "hugo-PaperMod-master"
@@ -13,11 +13,11 @@ ShowReadingTime = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 extraCSSFiles = ["css/harshit.me.css"]
-googleAnalyticsID = "G-ZBG6RJWQEJ"
+googleAnalyticsID = "G-DGP3KYZQFF"
 
 [[params.socials]]
 name = "About me"
-link = "https://www.linkedin.com/in/harshitkaushikusb/"
+link = "https://www.linkedin.com/in/harshit-kaushik-21845b21b/"
 
 [[params.socials]]
 name = "Github"
@@ -25,4 +25,4 @@ link = "https://github.com/HarshitKaushik"
 
 [[params.socials]]
 name = "Twitter"
-link = "https://twitter.com/drag_on_tweeter"
+link = "https://twitter.com/DragIsLit"
