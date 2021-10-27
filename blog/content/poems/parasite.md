@@ -4,7 +4,7 @@ date: 2021-04-08T14:18:40+05:30
 draft: false
 ---
 
-This poem is inspired from Bong Joon-Ho 's satirical masterpiece Parasite and a parallel theme of mental health.
+This poem is inspired from Bong Joon-Ho's satirical masterpiece Parasite and a parallel theme of mental health.
 
 I thought I won't write dark. Yet I feel dark. Dark. Also, it depends on the reader's perspective.
 
@@ -72,6 +72,6 @@ And looks again at the full moon, God's allograph,
 You come and slap him in the face remindin'  
 Him that Cancer is death. Comrade laughs. I laugh.  
 
-Dragon
+Dragon.
 
 © drag_on

@@ -1,5 +1,17 @@
 baseURL = "https://uniharsh.com/"
+
+defaultContentLanguage = 'en'
 languageCode = "en-us"
+# [languages]
+#   [languages.en]
+#     title = 'Harshit Kaushik'
+#     weight = 1
+#     [languages.en.params]
+#   [languages.hi]
+#     title = 'हर्षित'
+#     weight = 2
+#     [languages.fr.params]
+
 title = "Harshit Kaushik"
 theme = "hugo-PaperMod-master"
 

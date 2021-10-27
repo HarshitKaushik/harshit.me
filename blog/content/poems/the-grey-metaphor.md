@@ -39,6 +39,6 @@ Because we humans are ironic
 We value things  
 When we have lost them.  
 
-Dragon
+Dragon.
 
 © drag_on

@@ -68,6 +68,6 @@ Hurting even loved ones on my circumference.
 Dragon apologizes. Dragon remembers you.  
 This erroneous experience I put you through.  
 
-Dragon
+Dragon.
 
 © drag_on

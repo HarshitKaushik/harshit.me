@@ -15,6 +15,6 @@ It causes lesion and withers my body
 Its apprehension should kill itself now  
 This ointment shall cure me on an anxious day.  
 
-Dragon
+Dragon.
 
 © drag_on

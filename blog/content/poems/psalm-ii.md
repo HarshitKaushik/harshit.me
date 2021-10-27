@@ -15,6 +15,6 @@ And try to get even with those persons
 Who are still in front of me this today  
 This ointment shall cure me in a hopeless day.  
 
-Dragon
+Dragon.
 
 © drag_on

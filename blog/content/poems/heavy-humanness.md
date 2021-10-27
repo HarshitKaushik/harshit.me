@@ -19,6 +19,6 @@ Bonding with a soul deeper than Shepherd's tree.
 Yet when an injured mouse, recent amputee,  
 Surfaces, innocence turns red with the devil's eye.  
 
-Dragon
+Dragon.
 
 © drag_on

@@ -23,7 +23,6 @@ In an ideal world, we would have been whiter than we really are. I would have be
 
 No utopia exists.
 
-
 # Das Kapital
 
 The dignity of a man, drawn from his pockets,  

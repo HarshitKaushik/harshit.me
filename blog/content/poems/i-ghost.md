@@ -42,6 +42,6 @@ That peace too.
 I ghost my emotions.  
 I ghost.  
 
-Dragon
+Dragon.
 
 © drag_on

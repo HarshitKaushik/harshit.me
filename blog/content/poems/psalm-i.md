@@ -15,6 +15,6 @@ Animate my failed endeavours always
 Encourage me to enlighten this world  
 This ointment shall cure me on a woeful day.  
 
-Dragon
+Dragon.
 
 © drag_on

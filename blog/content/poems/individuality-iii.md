@@ -23,6 +23,6 @@ And it sprouted a green life
 You were happy for eternity  
 In that moment.  
 
-Dragon
+Dragon.
 
 © drag_on
